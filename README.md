@@ -1,7 +1,5 @@
 # Hello Everyone 👋🏻, I'm Jose
 
-<img src="https://i.ibb.co/HGrF1Lj/Whats-App-Image-2022-03-12-at-5-19-55-AM-2.jpg" width="100%" border="0">
-
 I'm a passionate Front-end developer from colombia 🇨🇴, I have worked on projects with a development environment based on Reactjs. I also have experience in the integration of web applications using tools like GitHub, Notion, Slack and figma. I like to work in teams and always wanting to learn and be in this great world of programming
 
 - 🖥️ I'm looking for my first job position in the tech world, and I am open to the opportunity to collaborate on a project with impact and stimulating challenges
