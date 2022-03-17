@@ -25,7 +25,7 @@ I'm a passionate Front-end developer from colombia 🇨🇴, I have worked on pr
 ## 🌎 &nbsp;&nbsp;Find me around the web:
 
 - Sharing in <a href="https://twitter.com/JoseMan68232374">Twitter</a>
-- Playing at <a href="https://www.hackerrank.com/jm157653">HackerRank</a>.
+- Playing at <a href="https://www.codewars.com/users/jmblack15">CodeWars</a>.
 - And know a little more about my work in <a href="https://www.linkedin.com/in/jose-manuel-osorio/">Linkedin</a>
 
 
