@@ -39,16 +39,24 @@ I'm a passionate Front-end developer from colombia 🇨🇴, I have worked on pr
 ## Some Projects
 
 <p align="center">
-<a href="https://github.com/jmblack15/Time-tracking-dashboard">
+  <a href="https://github.com/jmblack15/Time-tracking-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmblack15&repo=Time-tracking-dashboard&theme=dark" />
 </a>
-<a href="https://github.com/jmblack15/Bootstrap_platzi">
+</p>
+
+<p align="center">
+  <a href="https://github.com/jmblack15/Bootstrap_platzi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmblack15&repo=Bootstrap_platzi&theme=dark" />
 </a>
-<a href="https://github.com/jmblack15/Technical-Documentation-Page">
+</p>
+
+<p align="center">
+  <a href="https://github.com/jmblack15/Technical-Documentation-Page">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmblack15&repo=Technical-Documentation-Page&theme=dark" />
 </a>
 </p>
+
+
   
 
 
