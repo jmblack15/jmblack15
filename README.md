@@ -35,31 +35,3 @@ I'm a passionate Front-end developer from colombia 🇨🇴, I have worked on pr
   <img align="" src="https://github-readme-stats.vercel.app/api?username=jmblack15&theme=dark&show_icons=true&hide=contribs" />
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmblack15&layout=compact&theme=dark&show_icons=true&hide=contribs" />
 </p>
-
-## Some Projects
-
-<p align="center">
-  <a href="https://github.com/jmblack15/Time-tracking-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmblack15&repo=Time-tracking-dashboard&theme=dark" />
-</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jmblack15/Bootstrap_platzi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmblack15&repo=Bootstrap_platzi&theme=dark" />
-</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jmblack15/Technical-Documentation-Page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmblack15&repo=Technical-Documentation-Page&theme=dark" />
-</a>
-</p>
-
-
-  
-
-
-
-
-
