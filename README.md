@@ -6,7 +6,7 @@ Experienced web developer with over 2 years of hands-on experience in building a
 
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React, Angular
 - **Backend:** Node.js, Express.js, MongoDB, SQL
-- **Tools:** Git, Webpack, npm/yarn, RESTful APIs
+- **Tools:** Git, Docker, Kubernetes, AWS
 
 ## 🚀 What I'm Passionate About
 
