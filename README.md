@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Jose
 
-Experienced web developer with over 2 years of hands-on experience in building advanced web applications. I thrive on tackling complex challenges and delivering robust solutions. My expertise spans the entire development lifecycle, from designing intuitive UIs to implementing intricate functionalities.
+Experienced web developer with over 3 years of hands-on experience in building advanced web applications. I thrive on tackling complex challenges and delivering robust solutions. My expertise spans the entire development lifecycle, from designing intuitive UIs to implementing intricate functionalities.
 
 ## 🔧 Skills
 
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Angular
-- **Backend:** Node.js, Express.js, MongoDB, SQL
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React, NextJS
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, NestJS
 - **Tools:** Git, Docker, Kubernetes, AWS
 
 ## 🚀 What I'm Passionate About
